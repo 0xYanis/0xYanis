@@ -1,5 +1,18 @@
-# Yan Rybkin (0xYanis) 👋
+# Yan Rybkin (0xYanis) 🤠
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=229BC1&background=FFFFFF00&width=435&height=60&lines=IOS+Developer;+ITMO+University" alt="Typing SVG" /></a>
+
+## 🌎 Links
+
+☕ LinkedIn: [https://www.linkedin.com/in/0xyanis/](https://www.linkedin.com/in/0xyanis/)
+
+☕ LeetCode: [https://leetcode.com/0xYanis/](https://leetcode.com/0xYanis/)
+
+☕ Medium: [https://medium.com/@0xYanis/](https://medium.com/@0xYanis/)
+
+<br />
+
+<div style="page-break-after: always;"></div>
 
 ## 🚀 Main tech skills
 
@@ -10,6 +23,10 @@
 <img src="https://img.shields.io/badge/-UserDefaults/CoreData-EE4266?style=for-the-badge&logo"/>
 <img src="https://img.shields.io/badge/-RestAPI/JSON-BBDB9B?style=for-the-badge&logo"/>
 <img src="https://img.shields.io/badge/-Firebase-FA824C?style=for-the-badge&logo"/>
+
+<br />
+
+<div style="page-break-after: always;"></div>
 
 ## 💻 Secondary tech skills
 
