@@ -19,6 +19,8 @@
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/-SwiftUI-F7931E?style=for-the-badge&logo"/>
 <img src="https://img.shields.io/badge/-UIKit-F4D06F?style=for-the-badge&logo"/>
 <img src="https://img.shields.io/badge/-MVC-241623?style=for-the-badge&logo"/>
+<img src="https://img.shields.io/badge/-UserDefaults-21A0A0?style=for-the-badge&logo"/>
+<img src="https://img.shields.io/badge/-GET/POST-EFD780?style=for-the-badge&logo"/>
 
 
 <br />
