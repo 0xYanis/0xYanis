@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/-UIKit-F4D06F?style=for-the-badge&logo"/>
 <img src="https://img.shields.io/badge/-MVC-241623?style=for-the-badge&logo"/>
 <img src="https://img.shields.io/badge/-UserDefaults-21A0A0?style=for-the-badge&logo"/>
+<img src="https://img.shields.io/badge/-CoreData-21AIG0?style=for-the-badge&logo"/>
 <img src="https://img.shields.io/badge/-GET/POST-EFD780?style=for-the-badge&logo"/>
 <img src="https://img.shields.io/badge/-Sketch-FFF07C?style=for-the-badge&logo"/>
 
