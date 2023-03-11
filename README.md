@@ -1,6 +1,8 @@
-# Yan Rybkin (0xYanis) 🤠
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/0xyanis/">Yanis Rybkin</a>🙋🏻</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=229BC1&background=FFFFFF00&width=435&height=60&lines=IOS+Developer;+ITMO+University" alt="Typing SVG" /></a>
+<p align="center"> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=229BC1&background=FFFFFF00&width=220&height=60&lines=IOS+Developer;+ITMO+University" alt="Typing SVG" /></a>  
+</p>
 
 ## 🌎 Links
 
