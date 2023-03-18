@@ -20,11 +20,14 @@
 
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/-SwiftUI-F7931E?style=for-the-badge&logo"/>
 <img src="https://img.shields.io/badge/-UIKit-F4D06F?style=for-the-badge&logo"/>
+<img src="https://img.shields.io/badge/-MVP-241113?style=for-the-badge&logo"/>
 <img src="https://img.shields.io/badge/-MVC-241623?style=for-the-badge&logo"/>
 <img src="https://img.shields.io/badge/-MVVM-204623?style=for-the-badge&logo"/>
 <img src="https://img.shields.io/badge/-UserDefaults-21A0A0?style=for-the-badge&logo"/>
 <img src="https://img.shields.io/badge/-CoreData-21AIG0?style=for-the-badge&logo"/>
-<img src="https://img.shields.io/badge/-Network-EFD780?style=for-the-badge&logo"/>
+<img src="https://img.shields.io/badge/-Alamofire-LOIU98?style=for-the-badge&logo"/>
+<img src="https://img.shields.io/badge/-SnapKit-CMZI56?style=for-the-badge&logo"/>
+<img src="https://img.shields.io/badge/-Network-EFD721?style=for-the-badge&logo"/>
 <img src="https://img.shields.io/badge/-Sketch-FFF07C?style=for-the-badge&logo"/>
 
 <br />
