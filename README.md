@@ -30,6 +30,7 @@
 <img src="https://img.shields.io/badge/-SnapKit-CMZI56?style=for-the-badge&logo"/>
 <img src="https://img.shields.io/badge/-Network-EFD721?style=for-the-badge&logo"/>
 <img src="https://img.shields.io/badge/-Sketch-FFF07C?style=for-the-badge&logo"/>
+<img src="https://img.shields.io/badge/-Figma-F4D06F?style=for-the-badge&logo"/>
 
 <br />
 
