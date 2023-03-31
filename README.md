@@ -6,11 +6,13 @@
 
 ## 🌎 Links
 
-☕ LinkedIn: [https://www.linkedin.com/in/0xyanis/](https://www.linkedin.com/in/0xyanis/)
+☕ LinkedIn: [My profile](https://www.linkedin.com/in/0xyanis/)
 
-☕ LeetCode: [https://leetcode.com/0xYanis/](https://leetcode.com/0xYanis/)
+☕ LeetCode: [My algos exp](https://leetcode.com/0xYanis/)
 
-☕ Medium: [https://medium.com/@0xYanis/](https://medium.com/@0xYanis/)
+☕ Medium:     [My Blog](https://medium.com/@0xYanis/)
+
+☕ Telegram: [My Telegram](https://t.me/yanix0)
 
 <br />
 
