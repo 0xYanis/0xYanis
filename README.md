@@ -10,7 +10,7 @@
 
 ☕ LeetCode: [My algos exp](https://leetcode.com/0xYanis/)
 
-☕ Medium:     [My Blog](https://medium.com/@0xYanis/)
+☕ Medium: [My Blog](https://medium.com/@0xYanis/)
 
 ☕ Telegram: [My Telegram](https://t.me/yanix0)
 
