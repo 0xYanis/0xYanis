@@ -8,7 +8,7 @@
 
 ☕ LinkedIn: [My profile](https://www.linkedin.com/in/0xyanis/)
 
-☕ LeetCode: [My algos exp](https://leetcode.com/0xYanis/)
+☕ LeetCode: [My Algos exp](https://leetcode.com/0xYanis/)
 
 ☕ Medium: [My Blog](https://medium.com/@0xYanis/)
 
