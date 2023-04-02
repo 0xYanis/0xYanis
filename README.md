@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-<a &lt;img src="https://komarev.com/ghpvc/?username=0xyanis&amp;color=green"&gt; a>
+  <img src="https://komarev.com/ghpvc/?username=0xyanis&color=green">
 </p>
+
 
 ## 🌎 Links
 
@@ -50,12 +51,6 @@
 <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
-
-
-![](https://komarev.com/ghpvc/?username=0xyanis&color=green)
-
-
-
 
 
 
