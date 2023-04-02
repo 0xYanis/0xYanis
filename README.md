@@ -4,11 +4,6 @@
 <a href="https://github.com/0xYanis/WeatherApp"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=229BC1&background=FFFFFF00&width=220&height=60&lines=IOS+Developer;+ITMO+University" alt="Typing SVG" /></a>  
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xyanis&color=green">
-</p>
-
-
 ## 🌎 Links
 
 ☕ LinkedIn: [My profile](https://www.linkedin.com/in/0xyanis/)
