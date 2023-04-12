@@ -15,7 +15,3 @@
 ☕ Telegram: [My Telegram](https://t.me/yanix0)
 
 ☕ Resume: [My Resume](https://drive.google.com/drive/u/1/folders/1U4XppGbcVXxlNuK8DXR6oiipYQ_e12wp)
-
-<br />
-
-<div style="page-break-after: always;"></div>
