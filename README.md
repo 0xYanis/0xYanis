@@ -8,8 +8,6 @@
 
 ☕ LinkedIn: [My profile](https://www.linkedin.com/in/0xyanis/)
 
-☕ LeetCode: [My Algos exp](https://leetcode.com/0xYanis/)
-
 ☕ Medium: [My Blog](https://medium.com/@0xYanis/)
 
 ☕ Telegram: [My Telegram](https://t.me/yanix0)
