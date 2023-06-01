@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/0xyanis/">Yanis Rybkin</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center"> 
-<a href="https://github.com/0xYanis/WeatherApp"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=229BC1&background=FFFFFF00&width=220&height=60&lines=IOS+Developer;+ITMO+University" alt="Typing SVG" /></a>  
+<a href="https://github.com/0xYanis"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=229BC1&background=FFFFFF00&width=220&height=60&lines=IOS+Developer;+ITMO+University" alt="Typing SVG" /></a>  
 </p>
 
 ## 🌎 Links
