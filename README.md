@@ -1,16 +1,8 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/0xyanis/">0xYanis</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center"> 
-<a href="https://github.com/0xYanis"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=229BC1&background=FFFFFF00&width=220&height=60&lines=IOS+Developer" alt="Typing SVG" /></a>  
+<a href="https://github.com/0xYanis"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=229BC1&background=FFFFFF00&width=220&height=60&lines=iOS+Developer" alt="Typing SVG" /></a>  
 </p>
-
-## 🌎 Links
-
-☕ LinkedIn: [My profile](https://www.linkedin.com/in/0xyanis/)
-
-☕ Medium: [My Blog](https://medium.com/@0xYanis/)
-
-☕ Telegram: [My Telegram](https://t.me/yanix0)
 
   <table>
   <tr>
