@@ -5,7 +5,7 @@
 </p>
 
 ```Swift
-public struct Person: Human {
+public struct Person: People {
 
     private(set) var firstName: String  = "Yan"
     private(set) var secondName: String = "Rybkin"
