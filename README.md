@@ -4,14 +4,15 @@
 <a href="https://github.com/0xYanis"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=229BC1&background=FFFFFF00&width=220&height=60&lines=iOS+Developer" alt="Typing SVG" /></a>  
 </p>
 
+
 ```Swift
 public struct Person: People {
 
     private(set) var firstName: String  = "Yan"
     private(set) var secondName: String = "Rybkin"
     
-    var status = Student(degree: .MSCS)
-    
+    let status = Student(degree: .MSCS) 
+
     func say() {
         print("Hello, Github!")
     }
