@@ -8,7 +8,7 @@
 ```Swift
 public struct Person: People {
 
-    private(set) var firstName: String  = "Yan"
+    private(set) var firstName: String  = "Yanis"
     private(set) var secondName: String = "Rybkin"
     
     let status = Student(degree: .MSCS) 
