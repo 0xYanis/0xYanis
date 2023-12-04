@@ -9,11 +9,9 @@
 public struct Person: People {
 
     private(set) var firstName: String  = "Yanis"
-    private(set) var secondName: String = "Rybkin"
-    
-    let status = Student(degree: .MSCS) 
+    private(set) var secondName: String = "Rybkin" 
 
-    func say() {
+    public func say() {
         print("Hello, Github!")
     }
     
