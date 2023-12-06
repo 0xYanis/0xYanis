@@ -1,4 +1,4 @@
-<h1 align="leading">Hey, <a href="https://www.linkedin.com/in/0xyanis/">Yanis</a> here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="leading">Hey, <a href="https://www.linkedin.com/in/yanrybkin/">Yanis</a> here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="leading"> 
 <a href="https://github.com/0xYanis"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=229BC1&background=FFFFFF00&width=220&height=60&lines=iOS+Developer" alt="Typing SVG" /></a>  
