@@ -6,7 +6,7 @@
 
 
 ```Swift
-public struct Person: People {
+public struct Person: Person {
 
     private(set) var firstName: String  = "Yanis"
     private(set) var secondName: String = "Rybkin" 
@@ -28,3 +28,4 @@ public struct Person: People {
     </td>
   </tr>
 </table>
+
