@@ -6,7 +6,7 @@
 
 
 ```Swift
-public struct Person {
+public struct Yanis: Person {
 
     private(set) var firstName: String  = "Yanis"
     private(set) var secondName: String = "Rybkin" 
