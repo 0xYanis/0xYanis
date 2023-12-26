@@ -6,15 +6,14 @@
 
 
 ```Swift
-public struct Yanis: Person {
+struct Person {
+    var first  = "Yanis"
+    var second = "Rybkin"
+    var status: Status = .student(.mscs)
 
-    private(set) var firstName: String  = "Yanis"
-    private(set) var secondName: String = "Rybkin" 
-
-    public func say() {
-        print("Hello, Github!")
+    func sayHi() {
+        print("Howdy, Github!")
     }
-    
 }
 ```
 
