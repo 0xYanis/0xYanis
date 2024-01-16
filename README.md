@@ -27,4 +27,3 @@ public struct Person: Personable {
     </td>
   </tr>
 </table>
-
